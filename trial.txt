@@ -1,3 +1,5 @@
 I was once a man, now a beast!
 
 Live life, king size!
+
+This change has been made to check the new_branch! This line has been commited in the new_branch.
